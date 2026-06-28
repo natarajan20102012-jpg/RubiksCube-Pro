@@ -11,5 +11,5 @@ A fully interactive 3D Rubik's Cube simulator built with JavaScript, HTML, CSS, 
 
 Play the project online:
 
-https://natarajan20102012-jpg.github.io/RubiksCube-Pro/
+https://barath-codes-007.github.io/RubiksCube-Pro/
 
